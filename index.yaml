@@ -7,7 +7,7 @@ entries:
     digest: 49deda37c1ad566717e32de0a3cfd0889176cd796b7e911813251d7ff0e77bc9
     name: factom-ha
     urls:
-    - https://github.com/vivekroadflex/charts/factom-ha-0.1.0.tgz
+    - https://vivekroadflex.github.io/charts/factom-ha-0.1.0.tgz
     version: 0.1.0
   pgbouncer:
   - created: 2018-06-12T23:15:13.324665761Z
@@ -26,6 +26,6 @@ entries:
     sources:
     - https://github.com/clearbit/charts
     urls:
-    - https://github.com/vivekroadflex/charts/blob/master/pgbouncer-0.2.0.tgz
+    - https://vivekroadflex.github.io/charts/pgbouncer-0.2.0.tgz
     version: 0.2.0
 generated: 2018-06-12T23:15:13.323074815Z

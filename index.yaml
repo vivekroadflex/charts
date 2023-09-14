@@ -20,8 +20,8 @@ entries:
     - database
     - sql
     maintainers:
-    - email: ops@futuretech.industries
-      name: FutureTech Industries
+    - email: vivek.yadav@roadflex.com
+      name: Roadflex
     name: pgbouncer
     sources:
     - https://github.com/clearbit/charts
